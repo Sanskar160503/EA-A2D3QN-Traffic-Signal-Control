@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-04-17T06:16:24Z"/>
+
+  <way id="22661463">
+    <nd ref="249798463"/>
+    <nd ref="298121209"/>
+    <nd ref="298121403"/>
+    <nd ref="298120409"/>
+    <nd ref="298121259"/>
+    <nd ref="258336138"/>
+    <nd ref="11038572034"/>
+    <nd ref="243048295"/>
+    <nd ref="293695216"/>
+    <nd ref="249797854"/>
+    <nd ref="9181560203"/>
+    <nd ref="249797821"/>
+    <nd ref="11633522424"/>
+    <nd ref="6585758345"/>
+    <nd ref="249797851"/>
+    <nd ref="303008051"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="20"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Kavingar Bharathidasan Road"/>
+    <tag k="name:etymology:wikidata" v="Q3534483"/>
+    <tag k="name:ta" v="கவிஞர் பாரதிதாசன் சாலை"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="23135488">
+    <nd ref="258336133"/>
+    <nd ref="2218266274"/>
+    <nd ref="249798470"/>
+    <nd ref="9181612740"/>
+    <nd ref="249798471"/>
+    <nd ref="363704725"/>
+    <tag k="highway" v="living_street"/>
+    <tag k="name" v="Bharathiyar Street"/>
+    <tag k="name:etymology:wikidata" v="Q256286"/>
+  </way>
+  <way id="23135489">
+    <nd ref="249798484"/>
+    <nd ref="258333556"/>
+    <nd ref="249798478"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="VOC Street"/>
+    <tag k="name:etymology:wikidata" v="Q492527"/>
+  </way>
+  <way id="23135499">
+    <nd ref="30051677"/>
+    <nd ref="249798529"/>
+    <nd ref="258336136"/>
+    <nd ref="249798478"/>
+    <nd ref="258336134"/>
+    <nd ref="249798470"/>
+    <nd ref="249798476"/>
+    <nd ref="363652735"/>
+    <nd ref="243048295"/>
+    <nd ref="249797906"/>
+    <nd ref="2218266273"/>
+    <nd ref="249797147"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Thiruvalluvar Salai"/>
+    <tag k="name:etymology:wikidata" v="Q2353373"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="23135500">
+    <nd ref="249797901"/>
+    <nd ref="2218266273"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Masilamani Lane"/>
+  </way>
+  <way id="23135505">
+    <nd ref="249797878"/>
+    <nd ref="11633624022"/>
+    <nd ref="11633624021"/>
+    <nd ref="249797969"/>
+    <nd ref="249797968"/>
+    <nd ref="249797960"/>
+    <nd ref="249797959"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Alwarpet 2nd Street"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="23839272">
+    <nd ref="249798430"/>
+    <nd ref="258333556"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="23839472">
+    <nd ref="258336136"/>
+    <nd ref="258336137"/>
+    <tag k="highway" v="living_street"/>
+  </way>
+  <way id="26775913">
+    <nd ref="293695216"/>
+    <nd ref="293695215"/>
+    <nd ref="12045070273"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="3rd Street"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="27170841">
+    <nd ref="249798476"/>
+    <nd ref="11633624013"/>
+    <nd ref="249798477"/>
+    <nd ref="249798461"/>
+    <nd ref="249798469"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Appaduarai Street"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="27170989">
+    <nd ref="298121259"/>
+    <nd ref="298121275"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="4th Cross"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="30663135">
+    <nd ref="249797909"/>
+    <nd ref="249797879"/>
+    <nd ref="298121225"/>
+    <nd ref="249797880"/>
+    <nd ref="298121275"/>
+    <nd ref="249797881"/>
+    <nd ref="11796290408"/>
+    <nd ref="249797900"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="20"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Seethammal Colony 3rd Main Road"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="32305384">
+    <nd ref="249798461"/>
+    <nd ref="11633624012"/>
+    <nd ref="258336139"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="Raja Naicken Thottam"/>
+  </way>
+  <way id="32305386">
+    <nd ref="363652718"/>
+    <nd ref="11633624016"/>
+    <nd ref="11633624017"/>
+    <nd ref="11633624014"/>
+    <nd ref="249798473"/>
+    <nd ref="249798471"/>
+    <tag k="highway" v="living_street"/>
+  </way>
+  <way id="32666210">
+    <nd ref="249797900"/>
+    <nd ref="11796290407"/>
+    <nd ref="249797875"/>
+    <nd ref="249797876"/>
+    <nd ref="249797877"/>
+    <nd ref="249797878"/>
+    <nd ref="249797906"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="Masilamani Street"/>
+    <tag k="surface" v="paved"/>
+  </way>
+  <way id="211618536">
+    <nd ref="2214392184"/>
+    <nd ref="30051760"/>
+    <nd ref="11815976900"/>
+    <nd ref="30051761"/>
+    <nd ref="2218266277"/>
+    <nd ref="30051762"/>
+    <nd ref="30051763"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Seethammal Road"/>
+  </way>
+  <way id="211889971">
+    <nd ref="2218266274"/>
+    <nd ref="2218266276"/>
+    <tag k="highway" v="pedestrian"/>
+  </way>
+  <way id="993795376">
+    <nd ref="9181612740"/>
+    <nd ref="11633624015"/>
+    <nd ref="11796290405"/>
+    <nd ref="9181612741"/>
+    <tag k="highway" v="residential"/>
+    <tag k="source" v="maxar"/>
+  </way>
+  <way id="1188790339">
+    <nd ref="11038572034"/>
+    <nd ref="11038572035"/>
+    <tag k="highway" v="residential"/>
+  </way>
+  <way id="1251487710">
+    <nd ref="9181612741"/>
+    <nd ref="11796290406"/>
+    <nd ref="249798476"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Bakhtavachalam Street"/>
+  </way>
+  <node id="249797821" lat="13.0354617" lon="80.2479460"/>
+  <node id="249797851" lat="13.0355319" lon="80.2467683"/>
+  <node id="303008051" lat="13.0355603" lon="80.2462047"/>
+  <node id="6585758345" lat="13.0355126" lon="80.2472201"/>
+  <node id="11633522424" lat="13.0354758" lon="80.2477400"/>
+  <node id="30051760" lat="13.0370483" lon="80.2530459"/>
+  <node id="30051761" lat="13.0369749" lon="80.2532700"/>
+  <node id="30051762" lat="13.0367365" lon="80.2535199"/>
+  <node id="30051763" lat="13.0367207" lon="80.2536552"/>
+  <node id="243048295" lat="13.0353050" lon="80.2507807"/>
+  <node id="249797147" lat="13.0336688" lon="80.2505582"/>
+  <node id="249797854" lat="13.0353749" lon="80.2494264"/>
+  <node id="249797875" lat="13.0345822" lon="80.2515904"/>
+  <node id="249797876" lat="13.0346236" lon="80.2513893"/>
+  <node id="249797877" lat="13.0346546" lon="80.2511857"/>
+  <node id="249797878" lat="13.0346752" lon="80.2510309"/>
+  <node id="249797879" lat="13.0339663" lon="80.2533394"/>
+  <node id="249797880" lat="13.0341771" lon="80.2526615"/>
+  <node id="249797881" lat="13.0344580" lon="80.2521996"/>
+  <node id="249797900" lat="13.0345149" lon="80.2517367"/>
+  <node id="249797901" lat="13.0347232" lon="80.2501911"/>
+  <node id="249797906" lat="13.0347341" lon="80.2506907"/>
+  <node id="249797909" lat="13.0338877" lon="80.2535193"/>
+  <node id="249797959" lat="13.0335064" lon="80.2515676"/>
+  <node id="249797960" lat="13.0341705" lon="80.2514606"/>
+  <node id="249797968" lat="13.0342188" lon="80.2513489"/>
+  <node id="249797969" lat="13.0343378" lon="80.2511618"/>
+  <node id="249798430" lat="13.0373286" lon="80.2503962"/>
+  <node id="249798461" lat="13.0358954" lon="80.2519613"/>
+  <node id="249798463" lat="13.0351525" lon="80.2535574"/>
+  <node id="249798469" lat="13.0358633" lon="80.2526959"/>
+  <node id="249798470" lat="13.0365001" lon="80.2510042"/>
+  <node id="249798471" lat="13.0367043" lon="80.2500061"/>
+  <node id="249798473" lat="13.0362995" lon="80.2499590"/>
+  <node id="249798476" lat="13.0360149" lon="80.2509039"/>
+  <node id="249798477" lat="13.0359288" lon="80.2514323"/>
+  <node id="249798478" lat="13.0368945" lon="80.2510994"/>
+  <node id="249798484" lat="13.0370910" lon="80.2498472"/>
+  <node id="249798529" lat="13.0372191" lon="80.2511436"/>
+  <node id="258333556" lat="13.0370114" lon="80.2503515"/>
+  <node id="258336133" lat="13.0364100" lon="80.2516123"/>
+  <node id="258336134" lat="13.0367504" lon="80.2510745"/>
+  <node id="258336136" lat="13.0369640" lon="80.2511071"/>
+  <node id="258336137" lat="13.0369226" lon="80.2514675"/>
+  <node id="258336138" lat="13.0352399" lon="80.2519954"/>
+  <node id="258336139" lat="13.0367176" lon="80.2520797"/>
+  <node id="293695215" lat="13.0346210" lon="80.2498042"/>
+  <node id="293695216" lat="13.0353454" lon="80.2498038"/>
+  <node id="298120409" lat="13.0352041" lon="80.2526593"/>
+  <node id="298121209" lat="13.0351796" lon="80.2531682"/>
+  <node id="298121225" lat="13.0340690" lon="80.2530265"/>
+  <node id="298121259" lat="13.0352201" lon="80.2523395"/>
+  <node id="298121275" lat="13.0344129" lon="80.2523029"/>
+  <node id="298121403" lat="13.0351926" lon="80.2528689"/>
+  <node id="363652718" lat="13.0358105" lon="80.2498826"/>
+  <node id="363652735" lat="13.0357423" lon="80.2508561"/>
+  <node id="363704725" lat="13.0367432" lon="80.2498016"/>
+  <node id="2214392184" lat="13.0371880" lon="80.2517856"/>
+  <node id="2218266273" lat="13.0346620" lon="80.2506795"/>
+  <node id="2218266274" lat="13.0364371" lon="80.2514326"/>
+  <node id="2218266276" lat="13.0367718" lon="80.2514763"/>
+  <node id="2218266277" lat="13.0367977" lon="80.2534344"/>
+  <node id="9181560203" lat="13.0353761" lon="80.2493474"/>
+  <node id="9181612740" lat="13.0366417" lon="80.2503403"/>
+  <node id="9181612741" lat="13.0361763" lon="80.2502975"/>
+  <node id="11038572034" lat="13.0352694" lon="80.2514105"/>
+  <node id="11038572035" lat="13.0356713" lon="80.2514352"/>
+  <node id="11633624012" lat="13.0361650" lon="80.2519874"/>
+  <node id="11633624013" lat="13.0359965" lon="80.2509990"/>
+  <node id="11633624014" lat="13.0361572" lon="80.2499334"/>
+  <node id="11633624015" lat="13.0362499" lon="80.2502856"/>
+  <node id="11633624016" lat="13.0360043" lon="80.2499221"/>
+  <node id="11633624017" lat="13.0361154" lon="80.2499208"/>
+  <node id="11633624021" lat="13.0343894" lon="80.2511037"/>
+  <node id="11633624022" lat="13.0344887" lon="80.2510701"/>
+  <node id="11796290405" lat="13.0362120" lon="80.2502856"/>
+  <node id="11796290406" lat="13.0361532" lon="80.2503271"/>
+  <node id="11796290407" lat="13.0345606" lon="80.2516481"/>
+  <node id="11796290408" lat="13.0345005" lon="80.2518439"/>
+  <node id="11815976900" lat="13.0370195" lon="80.2531636"/>
+  <node id="12045070273" lat="13.0344228" lon="80.2498143"/>
+  <node id="30051677" lat="13.0387852" lon="80.2513739"/>
+
+</osm>

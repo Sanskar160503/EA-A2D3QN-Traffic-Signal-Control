@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Model files (too large for GitHub — use Git LFS or releases)
+*.pth
+*.pt
+*.pkl
+*.h5
+
+# Large numpy arrays
+*.npy
+*.npz
+
+# SUMO simulation outputs (large)
+*.xml
+!net.net.xml
+!*.sumocfg
+*.log
+*.output
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# MySQL credentials (never upload passwords)
+mysql_config.py
+config.py
+.env
+secrets.py
+
+# Training plots (upload selectively)
+# training_final.png  <- keep this one
+# training_fixed.png  <- keep this one
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large route files (auto-generated)
+routes_real_*.rou.xml
+routes_india_*.rou.xml
+
+# Temporary
+*.tmp
+*.temp
+temp/
+tmp/
